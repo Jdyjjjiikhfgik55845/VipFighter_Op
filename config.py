@@ -32,7 +32,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Jani-Music/HemaRP",
+    "https://github.com/Jdyjjjiikhfgik55845/VipFighter_Op",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv(
@@ -45,7 +45,7 @@ VIDEO_API_URL = getenv("VIDEO_API_URL", 'https://api.video.nexgenbots.xyz')
 API_KEY = getenv("API_KEY", "30DxNexGenBotsdc9b8a") # youtube song api key, generate free key or buy paid plan from panel.thequickearn.xyz
 
 SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Vip_Jani_OP")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+Fgru4laNvJpkMGI1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/VipFighter_Op")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
